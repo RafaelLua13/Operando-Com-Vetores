@@ -34,34 +34,3 @@ for x in range(len(C)):
 
 print(C)
 
-# Usando comandos Listas
-
-
-# A = [1,3,6,7,8,9]
-# B = [2,4,5,10]
-
-# a = 0
-# b = 0
-# C = []
-
-# for x in range(len(A) + len((B))):
-#   if A[a] < B[b]:
-#     C.append(A[a])
-
-#     if a + 1 < len(A):
-#       a += 1
-
-#     else: 
-
-#       A[a] = B[b] + A[a] 
-
-#   else:
-#     C.append(B[b])
-
-#     if b + 1 < len(B):
-#       b += 1
-
-#     else: 
-#       B[b] = A[a] + B[b]
-
-# print(C)
